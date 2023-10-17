@@ -14,7 +14,7 @@
 Câu lạc bộ gồm 5 ban:
 
 - Ban chủ nhiệm
-- Ban chuyên môngit 
+- Ban chuyên môn 
 - Ban Truyền thông
 - Ban Hậu cần
 - Ban Học Tập
