@@ -31,7 +31,7 @@ Câu lạc bộ gồm 5 ban:
 
 ### Ban chuyên môn
 
-- Trưởng ban : Trịnh Thành Nan
+- Trưởng ban : Trịnh Thành Nam
 
 ### Ban Truyền thông
 
