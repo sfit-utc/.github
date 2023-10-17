@@ -41,6 +41,7 @@ Câu lạc bộ gồm 5 ban:
 ### Ban Hậu cần
 
 - Trưởng ban: Lê Thanh Huyền
+- Phó ban: Nguyễn Thu Hương
 
 ### Ban Học Tập
 
