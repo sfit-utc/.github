@@ -53,3 +53,10 @@ Câu lạc bộ gồm 5 ban:
 - Lớp học: Lập trình hướng đối tượng
 - Lớp học: Cấu trúc dữ liệu và giải thuật
 - Lớp học: Lập trình web
+
+## Thành tích
+
+
+## Hoạt động
+
+
