@@ -11,39 +11,51 @@
 
 ## Thông tin về câu lạc bộ
 
-Câu lạc bộ gồm 5 ban:
-
-- Ban chủ nhiệm
-- Ban chuyên môn 
-- Ban Truyền thông
-- Ban Hậu cần
-- Ban Học Tập
-
-## Thông tin về các ban
-
 ### Ban chủ nhiệm
 
 ||||
 |-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)|
 |Phó chủ nhiệm| Đào Minh Quang| [Facebook](https://www.facebook.com/profile.php?id=100010380308019)|
-||||
+|Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=100009771698377)|
+|Phó chủ nhiệm|Phạm Huy Hoàng||
 
 ### Ban chuyên môn
 
-- Trưởng ban : Trịnh Thành Nam
+- Trưởng ban: Hoàng Mạnh Khiêm
+- Phó ban: Nguyễn Hà Kiên
+- Phó ban: Nguyễn Tú Anh
+- Phó ban: Trương Văn Minh
 
 ### Ban Truyền thông
 
 - Trưởng ban: Đỗ Thị Thùy Linh
-- Phó ban : Trương Văn Minh
+- Phó ban: Ngô Văn Quang
+- Phó Ban: Thân Văn Quân
 
 ### Ban Hậu cần
 
 - Trưởng ban: Lê Thanh Huyền
 - Phó ban: Nguyễn Thu Hương
 
-### Ban Học Tập
+### Ban Game
+
+- Trưởng ban: Trịnh Thành Nam
+
+### Ban Data & AI
+
+- Trưởng ban: Phạm Huy Hoàng
+- Phó ban: Hoàng Mạnh Khiêm
+
+### Ban Tiếng Anh
+
+- Trưởng ban: Nguyễn Thu Hương
+- Phó ban: Trịnh Thành Nam
+
+### Ban Web
+
+- Trưởng ban: Chu Quang Huy
+- Phó ban: Mai Thành Đạt
 
 ## Lớp học
 
