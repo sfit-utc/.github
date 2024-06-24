@@ -13,23 +13,19 @@
 
 ### Ban chủ nhiệm
 
-||||
-|-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)|
-|Phó chủ nhiệm| Đào Minh Quang| [Facebook](https://www.facebook.com/profile.php?id=100010380308019)|
+|-|-|-|
 |Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=100009771698377)|
-|Phó chủ nhiệm|Phạm Huy Hoàng||
+|Phó chủ nhiệm|Phạm Huy Hoàng| [Facebook](https://www.facebook.com/hakatoma15)|
 
 ### Ban chuyên môn
 
 - Trưởng ban: Hoàng Mạnh Khiêm
 - Phó ban: Nguyễn Hà Kiên
 - Phó ban: Nguyễn Tú Anh
-- Phó ban: Trương Văn Minh
 
 ### Ban Truyền thông
 
-- Trưởng ban: Đỗ Thị Thùy Linh
 - Phó ban: Ngô Văn Quang
 - Phó Ban: Thân Văn Quân
 
@@ -55,6 +51,10 @@
 ### Ban Web
 
 - Trưởng ban: Chu Quang Huy
+- Phó ban: Mai Thành Đạt
+
+### Ban Kỹ Thuật Máy Tính
+- Trưởng ban: Bùi Xuân Sơn
 - Phó ban: Mai Thành Đạt
 
 ## Lớp học
