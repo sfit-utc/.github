@@ -7,7 +7,7 @@
 - Địa chỉ: Số 3, đường Cầu Giấy, phường Láng Thượng, quận Đống Đa, Hà Nội
 - Website: [https://sfitclub.github.io/](https://sfitclub.github.io/)
 - Facebook: [https://www.facebook.com/sfitclub/](https://www.facebook.com/sfitclub/)
-- Email: khiemhm04@gmail.com
+- Email: clbtinhocgtvt@gmail.com
 
 ## Thông tin về câu lạc bộ
 
@@ -16,7 +16,6 @@
 ||||
 |-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)|
-|Phó chủ nhiệm| Đào Minh Quang| [Facebook](https://www.facebook.com/profile.php?id=100010380308019)|
 |Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|
 |Phó chủ nhiệm|Phạm Huy Hoàng||
 
