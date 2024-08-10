@@ -17,7 +17,7 @@
 |-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)|
 |Phó chủ nhiệm| Đào Minh Quang| [Facebook](https://www.facebook.com/profile.php?id=100010380308019)|
-|Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=100009771698377)|
+|Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|
 |Phó chủ nhiệm|Phạm Huy Hoàng||
 
 ### Ban chuyên môn
