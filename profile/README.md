@@ -13,7 +13,7 @@
 
 ### Ban chủ nhiệm
 
-|Title|Name|||
+|Title|Name|Facebook|Github|
 |-|-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)||
 |Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
@@ -21,40 +21,53 @@
 
 ### Ban chuyên môn
 
-- Trưởng ban: Hoàng Mạnh Khiêm
-- Phó ban: Nguyễn Hà Kiên
-- Phó ban: Nguyễn Tú Anh
-- Phó ban: Trương Văn Minh
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Hoàng Mạnh Khiêm|||
+|Phó ban|Nguyễn Hà Kiên|||
+|Phó ban|Nguyễn Tú Anh|||
 
 ### Ban Truyền thông
 
-- Trưởng ban: Đỗ Thị Thùy Linh
-- Phó ban: Ngô Văn Quang
-- Phó Ban: Thân Văn Quân
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Thân Văn Quân|||
+|Phó ban|Nguyễn Công Thắng|||
+|Phó ban|Phạm Ngọc Phúc|||
 
 ### Ban Hậu cần
 
-- Trưởng ban: Lê Thanh Huyền
-- Phó ban: Nguyễn Thu Hương
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Lê Thanh Huyền|||
+|Phó ban|Nguyễn Thu Hương||| 
 
 ### Ban Game
 
-- Trưởng ban: Trịnh Thành Nam
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
 
 ### Ban Data & AI
 
-- Trưởng ban: Phạm Huy Hoàng
-- Phó ban: Hoàng Mạnh Khiêm
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Phạm Huy Hoàng|||
+|Phó ban|Hoàng Mạnh Khiêm||| 
 
 ### Ban Tiếng Anh
 
-- Trưởng ban: Nguyễn Thu Hương
-- Phó ban: Trịnh Thành Nam
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Nguyễn Thu Hương|||
+|Phó ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
 
 ### Ban Web
 
-- Trưởng ban: Chu Quang Huy
-- Phó ban: Mai Thành Đạt
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Chu Quang Huy|||
+|Phó ban|Mai Thành Đạt|||
 
 ## Lớp học
 
@@ -63,7 +76,7 @@
 - Lớp học: Kĩ thuật lập trình
 - Lớp học: Lập trình hướng đối tượng
 - Lớp học: Cấu trúc dữ liệu và giải thuật
-- Lớp học: Lập trình web
+- Lớp học: Thiết kế web
 
 ## Thành tích
 
