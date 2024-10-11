@@ -69,6 +69,13 @@
 |Trưởng ban|Chu Quang Huy|||
 |Phó ban|Mai Thành Đạt|||
 
+### Ban IoT
+
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Nguyễn Quốc Khánh|[Facebook](https://www.facebook.com/khanhdew)||
+|Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/profile.php?id=100013526591168)|[Github](https://github.com/zunohoang)|
+
 ## Lớp học
 
 - Lớp học: Tin học Đại Cương
