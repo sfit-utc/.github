@@ -23,7 +23,7 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Hoàng Mạnh Khiêm|||
+|Trưởng ban|Hoàng Mạnh Khiêm|[Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Gthub](https://github.com/hoangmanhkhiem)|
 |Phó ban|Nguyễn Hà Kiên|||
 |Phó ban|Nguyễn Tú Anh|||
 
@@ -53,7 +53,7 @@
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Phạm Huy Hoàng|||
-|Phó ban|Hoàng Mạnh Khiêm||| 
+|Phó ban|Hoàng Mạnh Khiêm|[Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Gthub](https://github.com/hoangmanhkhiem)|
 
 ### Ban Tiếng Anh
 
@@ -66,8 +66,7 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Chu Quang Huy|||
-|Phó ban|Mai Thành Đạt|||
+|Trưởng ban|Mai Thành Đạt|||
 
 ### Ban IoT
 
