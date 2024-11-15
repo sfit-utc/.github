@@ -17,7 +17,7 @@
 |-|-|-|-|
 |Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)||
 |Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
-|Phó chủ nhiệm|Phạm Huy Hoàng||[Facebook](https://www.facebook.com/hakatoma15/)||[Github](https://github.com/HwangPham)|
+|Phó chủ nhiệm|Phạm Huy Hoàng|[Facebook](https://www.facebook.com/hakatoma15/)|[Github](https://github.com/HwangPham)|
 
 ### Ban chuyên môn
 
@@ -52,7 +52,7 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Phạm Huy Hoàng|||
+|Trưởng ban|Phạm Huy Hoàng|[Facebook](https://www.facebook.com/hakatoma15/)|[Github](https://github.com/HwangPham)|
 |Phó ban|Hoàng Mạnh Khiêm|[Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Gthub](https://github.com/hoangmanhkhiem)|
 
 ### Ban Tiếng Anh
