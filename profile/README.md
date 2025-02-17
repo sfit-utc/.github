@@ -15,25 +15,27 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Chủ nhiệm| Nguyễn Duy Mạnh| [Facebook](https://www.facebook.com/manh.nguyenduy.37201901)||
+|Chủ nhiệm| Hoàng Mạnh Khiêm| [Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Github](https://github.com/hoangmanhkhiem)|
 |Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
 |Phó chủ nhiệm|Phạm Huy Hoàng|[Facebook](https://www.facebook.com/hakatoma15/)|[Github](https://github.com/HwangPham)|
+|Phó chủ nhiệm|Phạm Thành An|||
+|Thư ký|Đỗ Dương Quỳnh Chi|||
 
 ### Ban chuyên môn
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Hoàng Mạnh Khiêm|[Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Github](https://github.com/hoangmanhkhiem)|
+|Trưởng ban|Nguyễn Tú Anh|||
 |Phó ban|Nguyễn Hà Kiên|||
-|Phó ban|Nguyễn Tú Anh|||
+|Phó ban|Nguyễn Đức Mạnh|||
 
 ### Ban Truyền thông
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Thân Văn Quân|||
-|Phó ban|Nguyễn Công Thắng|||
-|Phó ban|Phạm Ngọc Phúc|||
+|Trưởng ban|Nguyễn Công Thắng|||
+|Phó ban|Trần Quang Huy|||
+|Phó ban|Phạm Thị Thúy Quỳnh|||
 
 ### Ban Hậu cần
 
@@ -41,6 +43,7 @@
 |-|-|-|-|
 |Trưởng ban|Lê Thanh Huyền|||
 |Phó ban|Nguyễn Thu Hương||| 
+|Phó ban|Nguyễn Thuỳ Linh||| 
 
 ### Ban Game
 
