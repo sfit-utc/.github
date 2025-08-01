@@ -72,7 +72,8 @@
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Nguyễn Quốc Khánh|[Facebook](https://www.facebook.com/khanhdew)||
-|Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/profile.php?id=100013526591168)|[Github](https://github.com/zunohoang)|
+|Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/zunohoang)|[Github](https://github.com/zunohoang)|
+|Phó ban|Hoàng Trường Dũng|[Facebook](https://www.facebook.com/profile.php?)|[Github](https://github.com/)|
 
 ## Lớp học
 
