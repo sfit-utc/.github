@@ -16,60 +16,56 @@
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Chủ nhiệm| Hoàng Mạnh Khiêm| [Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Github](https://github.com/hoangmanhkhiem)|
-|Phó chủ nhiệm|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
-|Phó chủ nhiệm|Phạm Huy Hoàng|[Facebook](https://www.facebook.com/hakatoma15/)|[Github](https://github.com/HwangPham)|
-|Phó chủ nhiệm|Phạm Thành An|||
+|Phó chủ nhiệm|Phạm Thành An|[Facebook](https://www.facebook.com/)|[Github](https://github.com)|
+|Phó chủ nhiệm|Nguyễn Công Thắng|[Facebook](https://www.facebook.com/thangnguyen.0703)|[Github](https://github.com/thanngnguyen)|
+|Phó chủ nhiệm|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/zunohoang/)|[Github](https://github.com/zunohoang)|
 |Thư ký|Đỗ Dương Quỳnh Chi|||
 
 ### Ban chuyên môn
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Nguyễn Tú Anh|||
+|Trưởng ban|Nguyễn Đức Mạnh|||
 |Phó ban|Nguyễn Hà Kiên|||
-|Phó ban|Nguyễn Đức Mạnh|||
+|Phó ban|Nguyễn Tú Anh|||
 
 ### Ban Truyền thông
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Nguyễn Công Thắng|||
-|Phó ban|Trần Quang Huy|||
+|Trưởng ban|Trần Quang Huy|||
 |Phó ban|Phạm Thị Thúy Quỳnh|||
+|Phó ban|Phạm Tiến Đạt|||
 
 ### Ban Hậu cần
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Lê Thanh Huyền|||
-|Phó ban|Nguyễn Thu Hương||| 
-|Phó ban|Nguyễn Thuỳ Linh||| 
+|Trưởng ban|Nguyễn Thùy Linh|||
+|Phó ban|Hà Thị Thúy Hiên||| 
+|Phó ban|Lê Đức Tài||| 
 
 ### Ban Game
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
+|Phó ban|Nguyễn Việt Hoàng|
 
 ### Ban Data & AI
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Phạm Huy Hoàng|[Facebook](https://www.facebook.com/hakatoma15/)|[Github](https://github.com/HwangPham)|
-|Phó ban|Hoàng Mạnh Khiêm|[Facebook](https://www.facebook.com/hoangmanhkhiem.IT)|[Gthub](https://github.com/hoangmanhkhiem)|
-
-### Ban Tiếng Anh
-
-|Title|Name|Facebook|Github|
-|-|-|-|-|
-|Trưởng ban|Nguyễn Thu Hương|||
-|Phó ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
+|Trưởng ban|Lương Tiến Dũng|
+|Phó ban|Phan Đình Mạnh|
 
 ### Ban Web
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Mai Thành Đạt|||
+|Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/profile.php?id=100013526591168)|[Github](https://github.com/zunohoang)|
+|Phó ban|Khúc Phương Nam|
 
 ### Ban IoT
 
