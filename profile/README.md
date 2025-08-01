@@ -5,8 +5,8 @@
 - Tên câu lạc bộ: Tin học SFIT
 - Trường: Đại học Giao thông vận tải Hà Nội
 - Địa chỉ: Số 3, đường Cầu Giấy, phường Láng Thượng, quận Đống Đa, Hà Nội
-- Website: [Câu lạc bộ Tin học SFIT](https://sfit.com.vn/)
-- Facebook: [https://www.facebook.com/sfitclub/](https://www.facebook.com/sfitclub/)
+- Website: [sfit.com.vn](https://sfit.com.vn)
+- Facebook: [@sfit2016](https://www.facebook.com/sfit2016)
 - Email: clbtinhocgtvt@gmail.com
 
 ## Thông tin về câu lạc bộ
