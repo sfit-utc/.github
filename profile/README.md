@@ -75,6 +75,12 @@
 |Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/zunohoang)|[Github](https://github.com/zunohoang)|
 |Phó ban|Hoàng Trường Dũng|[Facebook](https://www.facebook.com/profile.php?)|[Github](https://github.com/)|
 
+### Ban Học Tập
+
+|Title|Name|Facebook|Github|
+|-|-|-|-|
+|Trưởng ban|Nguyễn Việt Hoàng|[Facebook](https://www.facebook.com/)||
+
 ## Lớp học
 
 - Lớp học: Tin học Đại Cương
