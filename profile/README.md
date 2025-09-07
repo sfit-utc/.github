@@ -57,14 +57,14 @@
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Lương Tiến Dũng|
-|Phó ban|Phan Đình Mạnh|
+|Phó ban|Nguyễn Đức Mạnh|
 
 ### Ban Web
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Mai Thành Đạt|||
-|Phó ban|Nguyễn Văn Hoàng|[Facebook](https://www.facebook.com/profile.php?id=100013526591168)|[Github](https://github.com/zunohoang)|
+|Phó ban|Nguyễn Hải Hiếu|
 |Phó ban|Khúc Phương Nam|
 
 ### Ban IoT
