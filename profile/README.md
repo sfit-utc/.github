@@ -49,7 +49,7 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/profile.php?id=61559188863257)|[Github](https://github.com/NamPhuThuy)|
+|Trưởng ban|Trịnh Thành Nam|[Facebook](https://www.facebook.com/namphuthuy957)|[Github](https://github.com/NamPhuThuy)|
 |Phó ban|Nguyễn Việt Hoàng|
 
 ### Ban Data & AI
