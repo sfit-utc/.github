@@ -65,7 +65,7 @@
 |-|-|-|-|
 |Trưởng ban|Mai Thành Đạt|||
 |Phó ban|Nguyễn Hải Hiếu|
-|Phó ban|Khúc Phương Nam|
+|Phó ban|Khúc Phương Nam|[Facebook](https://www.facebook.com/nkdkhtl)|[Github](https://github.com/nkdkhtl)|
 
 ### Ban IoT
 
