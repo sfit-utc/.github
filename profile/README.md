@@ -67,8 +67,9 @@
 |Title|Name|Facebook|Github|
 |-|-|-|-|
 |Trưởng ban|Khúc Phương Nam|[Facebook](https://www.facebook.com/nkdkhtl)|[Github](https://github.com/nkdkhtl)|
-|Phó ban|Nguyễn Hải Hiếu|[Facebook](https://www.facebook.com/)|[Github](https://github.com/hina-kasumi)|
-|Cố vấn|Mai Thành Đạt|[Facebook](https://www.facebook.com/)|[Github](https://github.com/maidat304)|
+|Phó ban|Nguyễn Hải Hiếu|[Facebook](https://www.facebook.com/nguyen.hieu.681853)|[Github](https://github.com/hina-kasumi)|
+|Phó ban|Nguyễn Đức Vũ|[Facebook](https://www.facebook.com/ndv128)|[Github](https://github.com/hina-kasumi)|
+|Cố vấn|Mai Thành Đạt|[Facebook](https://www.facebook.com/maidat304)|[Github](https://github.com/maidat304)|
 
 
 ### Ban IoT
