@@ -55,7 +55,7 @@
 |Trưởng ban|Nguyễn Việt Hoàng|[Facebook](https://www.facebook.com/)|[Github](https://github.com/HoangTuDongAnh)|
 |Trưởng ban|Nguyễn Hà Kiên|[Facebook](https://www.facebook.com/)|[Github](https://github.com/kinatraa)|
 
-### Ban Data & AI
+### Ban Cloud
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
@@ -66,9 +66,10 @@
 
 |Title|Name|Facebook|Github|
 |-|-|-|-|
-|Trưởng ban|Mai Thành Đạt|[Facebook](https://www.facebook.com/)|[Github](https://github.com/maidat304)|
+|Trưởng ban|Khúc Phương Nam|[Facebook](https://www.facebook.com/nkdkhtl)|[Github](https://github.com/nkdkhtl)|
 |Phó ban|Nguyễn Hải Hiếu|[Facebook](https://www.facebook.com/)|[Github](https://github.com/hina-kasumi)|
-|Phó ban|Khúc Phương Nam|[Facebook](https://www.facebook.com/nkdkhtl)|[Github](https://github.com/nkdkhtl)|
+|Cố vấn|Mai Thành Đạt|[Facebook](https://www.facebook.com/)|[Github](https://github.com/maidat304)|
+
 
 ### Ban IoT
 
